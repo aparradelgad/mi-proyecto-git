@@ -1,1 +1,2 @@
 This is another file for testing git
+Another commit for this file 
